@@ -1,0 +1,38 @@
+h1{
+		padding: 10px;
+    color: #fff;
+	}
+	.container{
+		       height: 471px;
+    width: 409px;
+    background-color: #BAD555;
+    margin: 10px auto;
+	}
+	#head{
+		    background-color: #cdcdcd;
+    height: 32px;
+    width: 152px;
+    position: relative;
+    left: 133px;
+    top: 20px;
+    font-size: 30px;
+	}
+	.btn{height: 40px;
+    width: 55px;
+    padding-top: 10px;
+    /* font-size: 20px; */
+    background: #cdcdcd;
+    border-radius: 45%;
+        font-size: 35px;
+    /* padding: 0px; */
+    margin: 15px;
+    text-align: center;
+    cursor: pointer;
+	}
+	#buttons{
+		display: grid;
+    position: relative;
+    top: 46px;
+    left: 20px;
+    grid-template-columns: auto auto auto;
+	}
